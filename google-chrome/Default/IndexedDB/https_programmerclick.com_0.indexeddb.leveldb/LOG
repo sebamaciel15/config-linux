@@ -1,0 +1,15 @@
+2021/03/19-13:49:51.749 1fbd Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_programmerclick.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/19-13:49:51.749 1fbd Recovering log #4
+2021/03/19-13:49:51.749 1fbd Reusing old log /home/seba/.config/google-chrome/Default/IndexedDB/https_programmerclick.com_0.indexeddb.leveldb/000004.log 
+2021/03/19-13:50:30.223 21cf Level-0 table #8: started
+2021/03/19-13:50:30.225 21cf Level-0 table #8: 471 bytes OK
+2021/03/19-13:50:30.226 21cf Delete type=0 #4
+2021/03/19-13:50:30.227 21cf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/19-13:50:30.227 21cf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00I\x00Z\x00C\x00I\x00D' @ 92 : 1
+2021/03/19-13:50:30.227 21cf Compacting 1@1 + 1@2 files
+2021/03/19-13:50:30.228 21cf Generated table #9@1: 29 keys, 724 bytes
+2021/03/19-13:50:30.228 21cf Compacted 1@1 + 1@2 files => 724 bytes
+2021/03/19-13:50:30.229 21cf compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/19-13:50:30.229 21cf Delete type=2 #5
+2021/03/19-13:50:30.229 21cf Delete type=2 #8
+2021/03/19-13:50:30.229 21cf Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00I\x00Z\x00C\x00I\x00D' @ 92 : 1 .. (end); will stop at (end)

@@ -1,0 +1,22 @@
+2021/02/18-20:43:12.282 82c Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/18-21:21:12.499 2707 Level-0 table #5: started
+2021/02/18-21:21:12.551 2707 Level-0 table #5: 1272565 bytes OK
+2021/02/18-21:21:12.553 2707 Delete type=0 #3
+2021/02/18-21:46:47.069 92c0 Level-0 table #7: started
+2021/02/18-21:46:47.572 92c0 Level-0 table #7: 1317856 bytes OK
+2021/02/18-21:46:47.574 92c0 Delete type=0 #4
+2021/02/18-21:46:47.616 7e1c Compacting 1@1 + 1@2 files
+2021/02/18-21:46:47.679 7e1c Generated table #8@1: 18764 keys, 990804 bytes
+2021/02/18-21:46:47.679 7e1c Compacted 1@1 + 1@2 files => 990804 bytes
+2021/02/18-21:46:47.680 7e1c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/18-21:46:47.680 7e1c Delete type=2 #5
+2021/02/18-21:46:47.680 7e1c Delete type=2 #7
+2021/02/18-22:04:31.299 b535 Level-0 table #10: started
+2021/02/18-22:04:31.350 b535 Level-0 table #10: 1266037 bytes OK
+2021/02/18-22:04:31.352 b535 Delete type=0 #6
+2021/02/18-22:05:15.067 b643 Compacting 1@1 + 1@2 files
+2021/02/18-22:05:15.132 b643 Generated table #11@1: 24917 keys, 1293606 bytes
+2021/02/18-22:05:15.132 b643 Compacted 1@1 + 1@2 files => 1293606 bytes
+2021/02/18-22:05:15.134 b643 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/18-22:05:15.134 b643 Delete type=2 #10
+2021/02/18-22:05:15.134 b643 Delete type=2 #8

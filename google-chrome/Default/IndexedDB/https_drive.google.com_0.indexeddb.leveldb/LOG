@@ -1,0 +1,15 @@
+2021/02/18-21:34:24.542 7ed6 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/18-21:34:24.542 7ed6 Recovering log #4
+2021/02/18-21:34:24.542 7ed6 Reusing old log /home/seba/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
+2021/02/18-21:34:33.537 8486 Level-0 table #8: started
+2021/02/18-21:34:33.539 8486 Level-0 table #8: 259084 bytes OK
+2021/02/18-21:34:33.541 8486 Delete type=0 #4
+2021/02/18-21:34:33.541 8486 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/18-21:34:33.541 8486 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x001\x00f\x00f\x006\x003\x002\x002\x00a\x008\x006\x004\x00e\x001\x005\x00c\x00f\x009\x00f\x00c\x007\x002\x006\x003\x009\x002\x00e\x007\x005\x007\x008\x00a\x007\x00_\x003\x00_\x001\x00:\x000\x000' @ 871 : 0
+2021/02/18-21:34:33.541 8486 Compacting 1@1 + 1@2 files
+2021/02/18-21:34:33.543 8486 Generated table #9@1: 71 keys, 64237 bytes
+2021/02/18-21:34:33.543 8486 Compacted 1@1 + 1@2 files => 64237 bytes
+2021/02/18-21:34:33.544 8486 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/18-21:34:33.544 8486 Delete type=2 #5
+2021/02/18-21:34:33.544 8486 Delete type=2 #8
+2021/02/18-21:34:33.545 8486 Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x001\x00f\x00f\x006\x003\x002\x002\x00a\x008\x006\x004\x00e\x001\x005\x00c\x00f\x009\x00f\x00c\x007\x002\x006\x003\x009\x002\x00e\x007\x005\x007\x008\x00a\x007\x00_\x003\x00_\x001\x00:\x000\x000' @ 871 : 0 .. (end); will stop at (end)

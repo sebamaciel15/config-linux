@@ -1,0 +1,28 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "./js/onesignal.js", "./js/gtm.js", "./js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "./img/icon_48.png",
+      "default_popup": "popup.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google-analytics.com https://www.googletagmanager.com https://a.poki.com https://onesignal.com; object-src 'self'; img-src https://www.googletagmanager.com https://www.google-analytics.com https://img.poki.com https://onesignal.com; connect-src https://t.poki.io/ https://www.google-analytics.com https://onesignal.com",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "*://www.megajatek.hu/*", "*://www.jeuxjeuxjeux.fr/*", "*://www.1001oyun.com/*", "*://poki.ro/*", "*://www.megaspel.se/*", "*://poki.de/*", "*://www.paisdelosjuegos.com.ar/*", "*://poki.it/*", "*://poki.dk/*", "*://www.123pelit.com/*", "*://poki.no/*", "*://www.moiteigri.com/*", "*://poki.pl/*", "*://www.hrajhry.sk/*", "*://poki.gr/*", "*://poki.com.br/*", "*://poki.cz/*", "*://www.trochoi.net/*", "*://poki.nl/*", "*://poki.be/*", "*://poki.pt/*", "*://www.paisdelosjuegos.cl/*", "*://www.paisdelosjuegos.com.mx/*", "*://www.paisdelosjuegos.com.co/*", "*://www.paisdelosjuegos.es/*", "*://www.jeuxjeuxjeux.ch/*", "*://www.spielyeti.ch/*", "*://poki.at/*", "*://www.paisdelosjuegos.com.uy/*", "*://www.paisdelosjuegos.com.pe/*", "*://www.paisdelosjuegos.com.ec/*", "*://www.paisdelosjuegos.co.ve/*", "*://www.paisdelosjuegos.com.do/*", "*://poki.by/*", "*://www.paisdelosjuegos.cr/*", "*://www.paisdelosjuegos.com.pa/*", "*://poki.cn/*", "*://poki.jp/*", "*://poki.co.il/*", "*://poki.com/*", "*://*.poki.io/*" ]
+   },
+   "icons": {
+      "128": "./img/icon_128.png",
+      "16": "./img/icon_16.png",
+      "48": "./img/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgPHqNIZNGk6cemhH9SsUgVAYU2cfvXciobSYEhRioZd0EYsId8+dmx35SVBy7n6XMgA6C1wB5vV5JLRFgISmYBqq6tfoNas19ilQ2iKfpYtl6VU8ZNiBG4peVPsRN63s03qre9CTctiSjb7XFVa7CIZmrChDN1Mpcxi8G750sOotaMoMOV/e8BkYdgCF4QQAN/+OzoZj6jsJnDQEz+NbU6n0IDgZ7O3n1QGo2OMfY6JRKBmtrQywctGbrs2dhsyWSiojkhExxjYUH8fPTym3nJTU7fBMxgmcpvsyIj54lfR6JJMrGPeX1BXdLwEfpTt26c8GaUSPeqMd4Uj6rgQW7QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "optional_permissions": [ "gcm", "storage", "notifications", "identity" ],
+   "permissions": [ "contextMenus", "contentSettings" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.3"
+}

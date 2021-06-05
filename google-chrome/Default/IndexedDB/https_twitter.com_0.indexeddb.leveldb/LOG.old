@@ -1,0 +1,15 @@
+2021/03/27-12:49:17.222 4843 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-12:49:17.222 4843 Recovering log #7
+2021/03/27-12:49:17.222 4843 Reusing old log /home/seba/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000007.log 
+2021/03/27-12:50:17.047 485b Level-0 table #11: started
+2021/03/27-12:50:17.049 485b Level-0 table #11: 2049 bytes OK
+2021/03/27-12:50:17.050 485b Delete type=0 #7
+2021/03/27-12:50:17.050 485b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-12:50:17.050 485b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x0d\x001\x006\x001\x006\x008\x006\x000\x001\x005\x007\x003\x006\x007' @ 372 : 1
+2021/03/27-12:50:17.050 485b Compacting 1@1 + 1@2 files
+2021/03/27-12:50:17.051 485b Generated table #12@1: 55 keys, 1288 bytes
+2021/03/27-12:50:17.051 485b Compacted 1@1 + 1@2 files => 1288 bytes
+2021/03/27-12:50:17.052 485b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-12:50:17.052 485b Delete type=2 #5
+2021/03/27-12:50:17.052 485b Delete type=2 #11
+2021/03/27-12:50:17.052 485b Manual compaction at level-1 from '\x00\x02\x01\x03\x01\x0d\x001\x006\x001\x006\x008\x006\x000\x001\x005\x007\x003\x006\x007' @ 372 : 1 .. (end); will stop at (end)

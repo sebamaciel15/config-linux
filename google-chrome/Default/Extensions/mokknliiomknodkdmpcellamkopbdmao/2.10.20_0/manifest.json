@@ -1,0 +1,35 @@
+{
+   "applications": {
+      "gecko": {
+         "id": "{e6fc2bbd-183e-4518-9ea5-04a8a913ab00}",
+         "strict_min_version": "48.0"
+      }
+   },
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon48.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://www.faceit.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Enhances the FACEIT experience and adds useful features.",
+   "homepage_url": "https://faceit-enhancer.com/",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjHo7Gk6em9d5wCI38HzCRVXWEWDfN4uiVbkGpNARDyz2rvOZ1dVlqjM15h8nykv0+rFr4BBT1NM8xn2eBipJIU6QZvAelAc4g+pJnh/SJaLq/9LwOGQkDhIkmoG2v6nSs2HUYR2yjlvSc2/tIpPLqWfAxPcFQGJPWx3OrduSjpAvP4nNEq9Wy25DDrq2/Y6cfoteKuZcK2gXnGsLqH7sg687UIEYgvX5Vdbb1owpI005t2wIybq1E97yFp9UIyJt6yui/MmeF0k7t7Khr6O4FXrtmg9UasttY7GT41WCDn+6WNUSh0JG5l/sYDJWin9E3vFK8xlF/luTLQrMvpl3BwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "51",
+   "name": "FACEIT Enhancer",
+   "permissions": [ "storage", "notifications", "clipboardWrite", "https://api.faceit.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.10.20"
+}

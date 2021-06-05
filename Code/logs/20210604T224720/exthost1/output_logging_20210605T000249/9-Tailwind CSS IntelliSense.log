@@ -1,0 +1,7 @@
+[Error - 00:02:49] Tailwind CSS: Can't resolve 'tailwindcss' in '/opt/lampp/htdocs/TEST-LV-SEBASTIAN'
+Error
+    at new g (/home/seba/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.7/dist/server/tailwindServer.js:56:277246)
+    at /home/seba/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.7/dist/server/tailwindServer.js:56:342072
+    at Generator.next (<anonymous>)
+    at o (/home/seba/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.7/dist/server/tailwindServer.js:56:336926)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

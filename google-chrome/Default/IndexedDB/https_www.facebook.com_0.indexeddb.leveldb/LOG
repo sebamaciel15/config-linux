@@ -1,0 +1,5 @@
+2021/02/25-19:38:54.022 14c5 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/25-19:39:26.166 14c5 Level-0 table #5: started
+2021/02/25-19:39:26.168 14c5 Level-0 table #5: 1240 bytes OK
+2021/02/25-19:39:26.170 14c5 Delete type=0 #3
+2021/02/25-19:39:26.170 14c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

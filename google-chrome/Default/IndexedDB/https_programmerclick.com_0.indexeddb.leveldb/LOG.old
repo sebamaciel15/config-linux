@@ -1,0 +1,5 @@
+2021/03/16-16:29:54.391 e1d Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_programmerclick.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/16-16:32:07.990 1537 Level-0 table #5: started
+2021/03/16-16:32:07.991 1537 Level-0 table #5: 1433 bytes OK
+2021/03/16-16:32:07.993 1537 Delete type=0 #3
+2021/03/16-16:32:07.993 1537 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

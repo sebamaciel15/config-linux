@@ -1,0 +1,5 @@
+2021/02/18-20:47:49.287 d8f Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/18-20:49:00.258 d7b Level-0 table #5: started
+2021/02/18-20:49:00.297 d7b Level-0 table #5: 8314 bytes OK
+2021/02/18-20:49:00.299 d7b Delete type=0 #3
+2021/02/18-20:49:00.299 d7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

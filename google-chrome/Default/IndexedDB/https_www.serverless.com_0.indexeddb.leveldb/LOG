@@ -1,0 +1,5 @@
+2021/03/03-13:45:24.444 2dfd Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_www.serverless.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/03-13:45:36.107 941 Level-0 table #5: started
+2021/03/03-13:45:36.108 941 Level-0 table #5: 2324 bytes OK
+2021/03/03-13:45:36.110 941 Delete type=0 #3
+2021/03/03-13:45:36.110 941 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

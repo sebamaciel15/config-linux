@@ -1,0 +1,17 @@
+2021/03/27-12:49:22.425 4b15 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_furiousss.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-12:49:22.488 4843 Level-0 table #5: started
+2021/03/27-12:49:22.489 4843 Level-0 table #5: 620 bytes OK
+2021/03/27-12:49:22.492 4843 Delete type=0 #3
+2021/03/27-12:49:22.492 4843 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/27-12:49:44.472 485b Level-0 table #7: started
+2021/03/27-12:49:44.474 485b Level-0 table #7: 1881 bytes OK
+2021/03/27-12:49:44.476 485b Delete type=0 #4
+2021/03/27-12:49:44.476 485b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-12:49:44.476 485b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x009\x004\x000\x009\x007\x006\x004\x004\x006\x005\x008\x00:\x00w\x00e\x00b\x00:\x006\x00a\x007\x00c\x005\x001\x00e\x007\x00b\x002\x005\x004\x000\x00f\x003\x006\x002\x009\x00a\x006\x00e\x00b' @ 68 : 1
+2021/03/27-12:49:44.476 485b Compacting 1@1 + 1@2 files
+2021/03/27-12:49:44.478 485b Generated table #8@1: 19 keys, 1228 bytes
+2021/03/27-12:49:44.478 485b Compacted 1@1 + 1@2 files => 1228 bytes
+2021/03/27-12:49:44.479 485b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-12:49:44.479 485b Delete type=2 #5
+2021/03/27-12:49:44.479 485b Delete type=2 #7
+2021/03/27-12:49:44.480 485b Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x009\x004\x000\x009\x007\x006\x004\x004\x006\x005\x008\x00:\x00w\x00e\x00b\x00:\x006\x00a\x007\x00c\x005\x001\x00e\x007\x00b\x002\x005\x004\x000\x00f\x003\x006\x002\x009\x00a\x006\x00e\x00b' @ 68 : 1 .. (end); will stop at (end)

@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Material Theme Darker",
+    "window.zoomLevel": 0,
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.removeExtensions": false,
+    "sync.gist": "2b64239dc3e26527c5ba8f7d215a3059",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "kite.showWelcomeNotificationOnStartup": false
+}

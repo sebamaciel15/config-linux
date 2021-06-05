@@ -1,0 +1,42 @@
+Realtime Extension Download Summary
+--------------------
+TOTAL EXTENSIONS : 2
+
+
+
+[x] - EXTENSION: alpine-js-intellisense - INSTALLING
+
+[x] - EXTENSION: alpine-js-intellisense INSTALLED.
+      1 OF 2 INSTALLED
+
+
+[x] - EXTENSION: vscode-tailwindcss - INSTALLING
+
+[x] - EXTENSION: vscode-tailwindcss INSTALLED.
+      2 OF 2 INSTALLED
+
+CODE SETTINGS SYNC DOWNLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: b8a9**********
+GitHub Gist: 2b64239dc3e26527c5ba8f7d215a3059
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Downloaded:
+  extensions.json > extensions.json
+  globalStorage\equinusocio.vsc-material-theme-icons\settings.json > globalStorage\equinusocio.vsc-material-theme-icons\settings.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  Feature Disabled.
+
+Extensions Added:
+  alpine-js-intellisense v1.2.0
+  vscode-tailwindcss v0.6.5
+--------------------
+Done.

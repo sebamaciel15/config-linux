@@ -1,0 +1,314 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 21:46:24] 6779 files total
+[Info  - 21:46:24] Indexing project for definitions and static references
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/autoload.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/InstalledVersions.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_static.php
+[Info  - 21:46:24] Ignoring file file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (712168)
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_files.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_real.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/installed.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_namespaces.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/ClassLoader.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_psr4.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/platform_check.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_classmap.php
+[Info  - 21:46:24] Ignoring file file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (645887)
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Unit/ExampleTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/ExampleTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/PasswordResetTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/RegistrationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/UpdatePasswordTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/BrowserSessionsTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/PasswordConfirmationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/ProfileInformationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/AuthenticationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/CreateApiTokenTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/EmailVerificationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/DeleteAccountTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/DeleteApiTokenTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/ApiTokenPermissionsTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/TwoFactorAuthenticationSettingsTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/TestCase.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/CreatesApplication.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/server.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/c5aec9364befddddee35cbdd5a61348a51c8d782.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/d13cc15d583dd77ae7fa029372ba537586ebf3d6.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/e46a34912f50ab116b4ea03abb63bb303a2a2bac.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/06b00c9b4f3759b481ab6431d1bdac04f02e613c.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/24b644eaa92b53bd2ca40a9ec2b89b9b27fc349f.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/816b8c51c00ee8553321da323c10a51038495e91.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/bc1afe01292826f7a43cd6e241ef8825ab3d58b8.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/8bbfc199402694e55e76d332237b88c8764477a6.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/dac3f6b05b5db447c15e8e5f608be315e2278313.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/4c2736485e2a7a90cf094c87abfb6e1c549cd69d.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/CategoryFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/ImageFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/PostFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/UserFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/TagFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/seeders/DatabaseSeeder.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_012341_create_images_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_011336_create_posts_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_011203_create_categories_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_011942_create_tags_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_012050_create_post_tag_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_005614_create_sessions_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/bootstrap/cache/services.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/bootstrap/cache/packages.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/bootstrap/app.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/public/index.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/PasswordValidationRules.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/UpdateUserPassword.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/UpdateUserProfileInformation.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/CreateNewUser.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/ResetUserPassword.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Jetstream/DeleteUser.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Console/Kernel.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/Post.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/Category.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/Tag.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/Image.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/User.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/View/Components/AppLayout.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/View/Components/GuestLayout.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Controllers/Controller.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/TrimStrings.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/TrustHosts.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/Authenticate.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/TrustProxies.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/EncryptCookies.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Kernel.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/EventServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/BroadcastServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/RouteServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/FortifyServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/JetstreamServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/AppServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/AuthServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Exceptions/Handler.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/cors.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/jetstream.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/filesystems.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/session.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/queue.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/services.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/database.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/broadcasting.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/sanctum.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/mail.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/logging.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/fortify.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/view.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/cache.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/auth.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/hashing.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/app.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/lang/en/passwords.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/lang/en/validation.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/lang/en/pagination.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/lang/en/auth.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/welcome.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/policy.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/terms.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/verify-email.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/two-factor-challenge.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/login.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/reset-password.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/confirm-password.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/register.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/forgot-password.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/navigation-menu.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/api/index.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/api/api-token-manager.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/two-factor-authentication-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/delete-user-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/logout-other-browser-sessions-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/show.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/update-profile-information-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/update-password-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/dashboard.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/layouts/guest.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/layouts/app.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/routes/channels.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/routes/web.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/routes/console.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/routes/api.php
+[Info  - 21:46:25] Indexing project for dynamic references
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/autoload.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/InstalledVersions.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_static.php
+[Info  - 21:46:25] Ignoring file file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (712168)
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_files.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_real.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/installed.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_namespaces.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/ClassLoader.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_psr4.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/platform_check.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_classmap.php
+[Info  - 21:46:25] Ignoring file file:///opt/lampp/htdocs/coders-free/blog/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (645887)
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Unit/ExampleTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/ExampleTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/PasswordResetTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/RegistrationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/UpdatePasswordTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/BrowserSessionsTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/PasswordConfirmationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/ProfileInformationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/AuthenticationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/CreateApiTokenTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/EmailVerificationTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/DeleteAccountTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/DeleteApiTokenTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/ApiTokenPermissionsTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/Feature/TwoFactorAuthenticationSettingsTest.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/TestCase.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/tests/CreatesApplication.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/server.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/c5aec9364befddddee35cbdd5a61348a51c8d782.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/d13cc15d583dd77ae7fa029372ba537586ebf3d6.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/e46a34912f50ab116b4ea03abb63bb303a2a2bac.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/06b00c9b4f3759b481ab6431d1bdac04f02e613c.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/24b644eaa92b53bd2ca40a9ec2b89b9b27fc349f.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/816b8c51c00ee8553321da323c10a51038495e91.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/bc1afe01292826f7a43cd6e241ef8825ab3d58b8.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/8bbfc199402694e55e76d332237b88c8764477a6.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/dac3f6b05b5db447c15e8e5f608be315e2278313.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/storage/framework/views/4c2736485e2a7a90cf094c87abfb6e1c549cd69d.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/CategoryFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/ImageFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/PostFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/UserFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/factories/TagFactory.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/seeders/DatabaseSeeder.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_012341_create_images_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_011336_create_posts_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_011203_create_categories_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_011942_create_tags_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_012050_create_post_tag_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/database/migrations/2021_05_16_005614_create_sessions_table.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/bootstrap/cache/services.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/bootstrap/cache/packages.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/bootstrap/app.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/public/index.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/PasswordValidationRules.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/UpdateUserPassword.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/UpdateUserProfileInformation.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/CreateNewUser.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Fortify/ResetUserPassword.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Actions/Jetstream/DeleteUser.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Console/Kernel.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/Post.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/Category.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/Tag.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/Image.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Models/User.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/View/Components/AppLayout.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/View/Components/GuestLayout.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Controllers/Controller.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/TrimStrings.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/TrustHosts.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/Authenticate.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/TrustProxies.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Middleware/EncryptCookies.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Http/Kernel.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/EventServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/BroadcastServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/RouteServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/FortifyServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/JetstreamServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/AppServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Providers/AuthServiceProvider.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/app/Exceptions/Handler.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/cors.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/jetstream.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/filesystems.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/session.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/queue.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/services.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/database.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/broadcasting.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/sanctum.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/mail.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/logging.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/fortify.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/view.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/cache.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/auth.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/hashing.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/config/app.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/lang/en/passwords.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/lang/en/validation.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/lang/en/pagination.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/lang/en/auth.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/welcome.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/policy.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/terms.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/verify-email.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/two-factor-challenge.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/login.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/reset-password.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/confirm-password.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/register.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/auth/forgot-password.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/navigation-menu.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/api/index.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/api/api-token-manager.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/two-factor-authentication-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/delete-user-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/logout-other-browser-sessions-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/show.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/update-profile-information-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/profile/update-password-form.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/dashboard.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/layouts/guest.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/resources/views/layouts/app.blade.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/routes/channels.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/routes/web.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/routes/console.php
+Parsing file:///opt/lampp/htdocs/coders-free/blog/routes/api.php
+[Info  - 21:46:25] 115 Packages
+[Info  - 21:46:25] Restored laravel/sanctum:2.11.0 from cache
+[Info  - 21:46:25] Restored laravel/fortify:1.7.12 from cache
+[Info  - 21:46:25] Restored laravel/jetstream:2.3.5 from cache
+[Info  - 21:46:25] Restored laravel/framework:8.41.0 from cache
+[Info  - 21:46:25] Restored laravel/tinker:2.6.1 from cache
+[Info  - 21:46:25] Restored laravel/sail:1.5.1 from cache
+[Info  - 21:46:25] Restored psy/psysh:0.10.8 from cache
+[Info  - 21:46:25] Restored theseer/tokenizer:1.2.0 from cache
+[Info  - 21:46:25] Restored symfony/http-foundation:5.2.8 from cache
+[Info  - 21:46:25] Restored symfony/polyfill-php80:1.22.1 from cache
+[Info  - 21:46:25] Restored symfony/string:5.2.8 from cache
+[Info  - 21:46:25] Restored symfony/http-client-contracts:2.4.0 from cache
+[Info  - 21:46:25] Restored symfony/routing:5.2.7 from cache
+[Info  - 21:46:25] Restored symfony/process:5.2.7 from cache
+[Info  - 21:46:25] Restored symfony/service-contracts:2.4.0 from cache
+[Info  - 21:46:25] Restored symfony/polyfill-intl-idn:1.22.1 from cache
+[Info  - 21:46:25] Restored symfony/translation-contracts:2.4.0 from cache
+[Info  - 21:46:25] Restored symfony/polyfill-php73:1.22.1 from cache
+[Info  - 21:46:25] Restored symfony/css-selector:5.2.7 from cache
+[Info  - 21:46:25] Restored symfony/polyfill-ctype:1.22.1 from cache
+[Info  - 21:46:25] Restored symfony/error-handler:5.2.8 from cache
+[Info  - 21:46:25] Restored symfony/polyfill-iconv:1.22.1 from cache
+[Info  - 21:46:25] Restored symfony/finder:5.2.8 from cache
+[Info  - 21:46:25] Restored symfony/var-dumper:5.2.8 from cache
+[Info  - 21:46:25] Restored symfony/deprecation-contracts:2.4.0 from cache

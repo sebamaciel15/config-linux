@@ -1,0 +1,17 @@
+Buscando git en: git
+Usando GIT 2.25.1 desde git
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/TEST-LV-SEBASTIAN
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/opt/lampp/htdocs/TEST-LV-SEBASTIAN/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/dashboard.blade.php
+> git ls-files --stage -- /opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/dashboard.blade.php
+> git cat-file -s 0d0c9c9f3036b8c6e14984b6afac4835a431a4d0

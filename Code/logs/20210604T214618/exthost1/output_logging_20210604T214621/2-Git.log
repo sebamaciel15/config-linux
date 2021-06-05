@@ -1,0 +1,96 @@
+Buscando git en: git
+Usando GIT 2.25.1 desde git
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/.editorconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/.env' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/.env.example' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/.gitattributes' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/.styleci.yml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/README.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/app' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/artisan' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/bootstrap' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/composer.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/composer.lock' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/config' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/database' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/node_modules' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/package-lock.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/package.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/phpunit.xml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/public' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/resources' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/server.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/storage' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/tailwind.config.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/tests' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/vendor' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog/webpack.mix.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/coders-free/blog' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}

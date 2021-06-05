@@ -1,0 +1,52 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: b8a9**********
+GitHub Gist: 2b64239dc3e26527c5ba8f7d215a3059
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  settings.json > settings.json
+  settings.json > globalStorage|equinusocio.vsc-material-theme-icons|settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  Feature Disabled.
+
+Extensions Added:
+  alpine-js-intellisense v1.2.0
+  auto-close-tag v0.5.10
+  auto-rename-tag v0.1.6
+  beautify v1.5.0
+  bootstrap4-vscode v6.1.0
+  code-settings-sync v3.4.3
+  file-icons v1.0.29
+  gitlens v11.4.1
+  html-snippets v0.2.1
+  JavaScriptSnippets v1.8.0
+  kite v0.147.0
+  laravel-blade v1.25.0
+  laravel5-snippets v1.12.0
+  LiveServer v5.6.1
+  material-icon-theme v4.7.0
+  material-theme v3.10.14
+  php-intellisense v2.3.14
+  prettier-vscode v6.4.0
+  vetur v0.34.1
+  vim v1.20.3
+  vsc-community-material-theme v1.4.2
+  vsc-material-theme v33.1.2
+  vsc-material-theme-icons v1.2.2
+  vscode-eslint v2.1.20
+  vscode-html-css v1.10.2
+  vscode-icons v11.4.0
+  vscode-intelephense-client v1.7.1
+  vscode-language-pack-es v1.56.2
+  vscode-tailwindcss v0.6.7
+--------------------
+Done.

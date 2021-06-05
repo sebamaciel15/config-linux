@@ -1,0 +1,5 @@
+2021/03/23-23:43:56.840 942 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_www.esquire.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-23:45:11.832 c7b Level-0 table #5: started
+2021/03/23-23:45:11.834 c7b Level-0 table #5: 10765 bytes OK
+2021/03/23-23:45:11.836 c7b Delete type=0 #3
+2021/03/23-23:45:11.836 c7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

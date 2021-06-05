@@ -1,0 +1,15 @@
+2021/03/27-12:49:00.098 4b15 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-12:49:00.099 4b15 Recovering log #7
+2021/03/27-12:49:00.099 4b15 Reusing old log /home/seba/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000007.log 
+2021/03/27-12:49:15.274 4b15 Level-0 table #11: started
+2021/03/27-12:49:15.276 4b15 Level-0 table #11: 2192 bytes OK
+2021/03/27-12:49:15.278 4b15 Delete type=0 #7
+2021/03/27-12:49:15.278 4b15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-12:49:15.278 4b15 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 104 : 1
+2021/03/27-12:49:15.278 4b15 Compacting 1@1 + 1@2 files
+2021/03/27-12:49:15.279 4b15 Generated table #12@1: 38 keys, 1530 bytes
+2021/03/27-12:49:15.279 4b15 Compacted 1@1 + 1@2 files => 1530 bytes
+2021/03/27-12:49:15.281 4b15 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-12:49:15.281 4b15 Delete type=2 #5
+2021/03/27-12:49:15.281 4b15 Delete type=2 #11
+2021/03/27-12:49:15.281 4b15 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 104 : 1 .. (end); will stop at (end)

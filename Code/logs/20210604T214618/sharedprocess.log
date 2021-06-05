@@ -1,0 +1,36 @@
+[2021-06-04 21:46:22.179] [sharedprocess] [info] Installing extension: kiteco.kite
+[2021-06-04 21:46:22.179] [sharedprocess] [info] Installing extension: octref.vetur
+[2021-06-04 21:46:22.179] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-06-04 21:46:22.180] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-06-04 21:46:23.220] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/seba/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.7.0
+[2021-06-04 21:46:23.428] [sharedprocess] [info] Downloaded extension: kiteco.kite /home/seba/.config/Code/CachedExtensionVSIXs/kiteco.kite-0.147.0
+[2021-06-04 21:46:23.483] [sharedprocess] [info] Extracted extension to /home/seba/.vscode/extensions/.5e1fcb22-edea-48c7-b20e-d718c914166d: kiteco.kite
+[2021-06-04 21:46:23.491] [sharedprocess] [info] Renamed to /home/seba/.vscode/extensions/kiteco.kite-0.147.0
+[2021-06-04 21:46:23.492] [sharedprocess] [info] Installation completed. kiteco.kite
+[2021-06-04 21:46:23.504] [sharedprocess] [info] Extensions installed successfully: kiteco.kite
+[2021-06-04 21:46:23.605] [sharedprocess] [info] Installing extension: adrianwilczynski.alpine-js-intellisense
+[2021-06-04 21:46:23.647] [sharedprocess] [info] Extracted extension to /home/seba/.vscode/extensions/.85a104a9-daa4-4e37-9b71-0773a81516e7: pkief.material-icon-theme
+[2021-06-04 21:46:23.652] [sharedprocess] [info] Renamed to /home/seba/.vscode/extensions/pkief.material-icon-theme-4.7.0
+[2021-06-04 21:46:23.652] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2021-06-04 21:46:23.668] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2021-06-04 21:46:23.825] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/seba/.config/Code/CachedExtensionVSIXs/vscodevim.vim-1.20.3
+[2021-06-04 21:46:23.901] [sharedprocess] [info] Extracted extension to /home/seba/.vscode/extensions/.fbeeeed0-094d-48dc-802c-105a1d7454d6: vscodevim.vim
+[2021-06-04 21:46:23.909] [sharedprocess] [info] Renamed to /home/seba/.vscode/extensions/vscodevim.vim-1.20.3
+[2021-06-04 21:46:23.910] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-06-04 21:46:23.917] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-06-04 21:46:24.357] [sharedprocess] [info] Downloaded extension: adrianwilczynski.alpine-js-intellisense /home/seba/.config/Code/CachedExtensionVSIXs/adrianwilczynski.alpine-js-intellisense-1.2.0
+[2021-06-04 21:46:24.364] [sharedprocess] [info] Extracted extension to /home/seba/.vscode/extensions/.d7ad3a97-b7e7-484c-8bac-307315a34d8b: adrianwilczynski.alpine-js-intellisense
+[2021-06-04 21:46:24.367] [sharedprocess] [info] Renamed to /home/seba/.vscode/extensions/adrianwilczynski.alpine-js-intellisense-1.2.0
+[2021-06-04 21:46:24.368] [sharedprocess] [info] Installation completed. adrianwilczynski.alpine-js-intellisense
+[2021-06-04 21:46:24.371] [sharedprocess] [info] Extensions installed successfully: adrianwilczynski.alpine-js-intellisense
+[2021-06-04 21:46:24.844] [sharedprocess] [info] Installing extension: bradlc.vscode-tailwindcss
+[2021-06-04 21:46:25.609] [sharedprocess] [info] Downloaded extension: bradlc.vscode-tailwindcss /home/seba/.config/Code/CachedExtensionVSIXs/bradlc.vscode-tailwindcss-0.6.7
+[2021-06-04 21:46:25.624] [sharedprocess] [info] Extracted extension to /home/seba/.vscode/extensions/.b3438fc0-0f4e-4e08-8a20-6d54e2a3c52e: bradlc.vscode-tailwindcss
+[2021-06-04 21:46:25.628] [sharedprocess] [info] Renamed to /home/seba/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.7
+[2021-06-04 21:46:25.629] [sharedprocess] [info] Installation completed. bradlc.vscode-tailwindcss
+[2021-06-04 21:46:25.638] [sharedprocess] [info] Extensions installed successfully: bradlc.vscode-tailwindcss
+[2021-06-04 21:46:25.746] [sharedprocess] [info] Downloaded extension: octref.vetur /home/seba/.config/Code/CachedExtensionVSIXs/octref.vetur-0.34.1
+[2021-06-04 21:46:27.757] [sharedprocess] [info] Extracted extension to /home/seba/.vscode/extensions/.3be077bd-d212-418b-8f0a-f9eacdd16165: octref.vetur
+[2021-06-04 21:46:27.766] [sharedprocess] [info] Renamed to /home/seba/.vscode/extensions/octref.vetur-0.34.1
+[2021-06-04 21:46:27.766] [sharedprocess] [info] Installation completed. octref.vetur
+[2021-06-04 21:46:27.774] [sharedprocess] [info] Extensions installed successfully: octref.vetur

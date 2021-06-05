@@ -1,0 +1,22 @@
+2021/06/04-18:39:55.285 ed1 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/04-18:39:55.286 ed1 Recovering log #114
+2021/06/04-18:39:55.299 ed1 Reusing old log /home/seba/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000114.log 
+2021/06/04-21:40:30.036 ea5 Level-0 table #118: started
+2021/06/04-21:40:30.134 ea5 Level-0 table #118: 1097801 bytes OK
+2021/06/04-21:40:30.137 ea5 Delete type=0 #114
+2021/06/04-21:40:30.137 ea5 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x02\x00n\x00h' @ 259449 : 1
+2021/06/04-21:40:30.137 ea5 Compacting 1@0 + 1@1 files
+2021/06/04-21:40:30.145 ea5 Generated table #119@0: 1884 keys, 39894 bytes
+2021/06/04-21:40:30.145 ea5 Compacted 1@0 + 1@1 files => 39894 bytes
+2021/06/04-21:40:30.147 ea5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/04-21:40:30.147 ea5 Delete type=2 #118
+2021/06/04-21:40:30.147 ea5 Delete type=2 #115
+2021/06/04-21:40:30.147 ea5 Manual compaction at level-0 from '\x00\x02\x01\x02\x01\x02\x00n\x00h' @ 259449 : 1 .. (end); will stop at (end)
+2021/06/04-21:40:30.148 ea5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 257997 : 1
+2021/06/04-21:40:30.148 ea5 Compacting 1@1 + 1@2 files
+2021/06/04-21:40:30.150 ea5 Generated table #120@1: 64 keys, 25692 bytes
+2021/06/04-21:40:30.150 ea5 Compacted 1@1 + 1@2 files => 25692 bytes
+2021/06/04-21:40:30.151 ea5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/04-21:40:30.152 ea5 Delete type=2 #119
+2021/06/04-21:40:30.152 ea5 Delete type=2 #113
+2021/06/04-21:40:30.152 ea5 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 257997 : 1 .. (end); will stop at (end)

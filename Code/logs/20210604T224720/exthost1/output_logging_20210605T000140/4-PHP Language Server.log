@@ -1,0 +1,438 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 00:01:41] 182 files total
+[Info  - 00:01:41] Indexing project for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Unit/ExampleTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/ExampleTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/PasswordResetTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/RegistrationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/UpdatePasswordTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/BrowserSessionsTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/PasswordConfirmationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/ProfileInformationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/AuthenticationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/CreateApiTokenTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/EmailVerificationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/DeleteAccountTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/DeleteApiTokenTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/ApiTokenPermissionsTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/TwoFactorAuthenticationSettingsTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/TestCase.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/CreatesApplication.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/server.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/StateFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/CategoryFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/ImageFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/UserFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/ClientFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/RoleFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/OrderFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/MenuFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/seeders/UserSeeder.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/seeders/MenuSeeder.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/seeders/DatabaseSeeder.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/seeders/OrderSeeder.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_160809_create_sessions_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_164031_create_state_order_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163906_create_menus_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163905_create_categories_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163832_create_clients_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_212651_create_images_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_164015_create_roles_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163942_create_categories_menu_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163908_create_states_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163940_create_orders_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/bootstrap/app.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/public/index.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/PasswordValidationRules.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/UpdateUserPassword.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/UpdateUserProfileInformation.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/CreateNewUser.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/ResetUserPassword.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Jetstream/DeleteUser.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Console/Kernel.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Order.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Category.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Role.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/State.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Image.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Client.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/User.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/View/Components/AppLayout.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/View/Components/GuestLayout.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Controllers/MenuController.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Controllers/Controller.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Controllers/Admin/MenuController.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Controllers/Admin/HomeController.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/TrimStrings.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/TrustHosts.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/Authenticate.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/TrustProxies.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/EncryptCookies.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Kernel.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Livewire/Navigation.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/EventServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/BroadcastServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/RouteServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/FortifyServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/JetstreamServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/AppServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/AuthServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Exceptions/Handler.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/cors.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/jetstream.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/filesystems.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/session.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/queue.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/services.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/database.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/broadcasting.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/sanctum.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/mail.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/logging.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/fortify.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/view.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/cache.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/auth.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/hashing.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/app.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/adminlte.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/en/passwords.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/en/validation.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/en/pagination.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/en/auth.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/index.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/menues/index.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/menues/show.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/menues/create.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/menues/edit.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/welcome.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/policy.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/terms.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/verify-email.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/two-factor-challenge.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/login.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/reset-password.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/confirm-password.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/register.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/forgot-password.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/navigation-menu.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/livewire/navigation.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/api/index.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/api/api-token-manager.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/two-factor-authentication-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/delete-user-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/logout-other-browser-sessions-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/show.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/update-profile-information-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/update-password-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/dashboard.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/layouts/guest.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/layouts/app.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/index.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/delete.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/show.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/create.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/update.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/category.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/channels.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/web.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/console.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/admin.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/api.php
+[Info  - 00:01:41] Indexing project for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Unit/ExampleTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/ExampleTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/PasswordResetTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/RegistrationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/UpdatePasswordTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/BrowserSessionsTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/PasswordConfirmationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/ProfileInformationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/AuthenticationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/CreateApiTokenTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/EmailVerificationTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/DeleteAccountTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/DeleteApiTokenTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/ApiTokenPermissionsTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/Feature/TwoFactorAuthenticationSettingsTest.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/TestCase.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/tests/CreatesApplication.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/server.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/StateFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/CategoryFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/ImageFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/UserFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/ClientFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/RoleFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/OrderFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/factories/MenuFactory.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/seeders/UserSeeder.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/seeders/MenuSeeder.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/seeders/DatabaseSeeder.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/seeders/OrderSeeder.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_160809_create_sessions_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_164031_create_state_order_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163906_create_menus_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163905_create_categories_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163832_create_clients_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_212651_create_images_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_164015_create_roles_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163942_create_categories_menu_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163908_create_states_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/database/migrations/2021_05_19_163940_create_orders_table.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/bootstrap/app.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/public/index.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/PasswordValidationRules.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/UpdateUserPassword.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/UpdateUserProfileInformation.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/CreateNewUser.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Fortify/ResetUserPassword.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Actions/Jetstream/DeleteUser.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Console/Kernel.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Order.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Category.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Role.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/State.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Image.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/Client.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Models/User.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/View/Components/AppLayout.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/View/Components/GuestLayout.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Controllers/MenuController.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Controllers/Controller.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Controllers/Admin/MenuController.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Controllers/Admin/HomeController.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/TrimStrings.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/TrustHosts.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/Authenticate.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/TrustProxies.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Middleware/EncryptCookies.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Kernel.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Http/Livewire/Navigation.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/EventServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/BroadcastServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/RouteServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/FortifyServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/JetstreamServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/AppServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Providers/AuthServiceProvider.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/app/Exceptions/Handler.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/cors.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/jetstream.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/filesystems.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/session.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/queue.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/services.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/database.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/broadcasting.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/sanctum.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/mail.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/logging.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/fortify.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/view.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/cache.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/auth.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/hashing.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/app.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/config/adminlte.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/en/passwords.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/en/validation.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/en/pagination.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/en/auth.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/index.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/menues/index.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/menues/show.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/menues/create.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/admin/menues/edit.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/welcome.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/policy.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/terms.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/verify-email.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/two-factor-challenge.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/login.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/reset-password.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/confirm-password.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/register.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/auth/forgot-password.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/navigation-menu.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/livewire/navigation.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/api/index.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/api/api-token-manager.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/two-factor-authentication-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/delete-user-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/logout-other-browser-sessions-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/show.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/update-profile-information-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/profile/update-password-form.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/dashboard.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/layouts/guest.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/layouts/app.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/index.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/delete.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/show.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/create.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/update.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/views/menu/category.blade.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/channels.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/web.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/console.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/admin.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/routes/api.php
+[Info  - 00:01:41] 22 Packages
+[Info  - 00:01:41] Indexing adminlte/hr for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/hr/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/hr for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/hr/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/hr
+[Info  - 00:01:41] Indexing adminlte/de for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/de/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/de/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/de for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/de/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/de/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/de
+[Info  - 00:01:41] Indexing adminlte/it for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/it/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/it for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/it/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/it
+[Info  - 00:01:41] Indexing adminlte/es for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/es/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/es/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/es for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/es/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/es/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/es
+[Info  - 00:01:41] Indexing adminlte/uk for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/uk/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/uk/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/uk for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/uk/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/uk/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/uk
+[Info  - 00:01:41] Indexing adminlte/pt-br for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/pt-br/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/pt-br/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/pt-br for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/pt-br/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/pt-br/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/pt-br
+[Info  - 00:01:41] Indexing adminlte/ca for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ca/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/ca for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ca/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/ca
+[Info  - 00:01:41] Indexing adminlte/ja for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ja/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ja/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/ja for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ja/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ja/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/ja
+[Info  - 00:01:41] Indexing adminlte/fa for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/fa/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/fa for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/fa/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/fa
+[Info  - 00:01:41] Indexing adminlte/pl for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/pl/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/pl for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/pl/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/pl
+[Info  - 00:01:41] Indexing adminlte/zh-CN for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/zh-CN/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/zh-CN/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/zh-CN for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/zh-CN/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/zh-CN/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/zh-CN
+[Info  - 00:01:41] Indexing adminlte/vi for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/vi/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/vi/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/vi for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/vi/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/vi/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/vi
+[Info  - 00:01:41] Indexing adminlte/ru for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ru/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ru/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/ru for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ru/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ru/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/ru
+[Info  - 00:01:41] Indexing adminlte/fr for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/fr/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/fr for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/fr/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/fr
+[Info  - 00:01:41] Indexing adminlte/hu for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/hu/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/hu for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/hu/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/hu
+[Info  - 00:01:41] Indexing adminlte/en for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/en/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/en/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/en for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/en/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/en/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/en
+[Info  - 00:01:41] Indexing adminlte/tr for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/tr/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/tr/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/tr for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/tr/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/tr/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/tr
+[Info  - 00:01:41] Indexing adminlte/la for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/la/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/la/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/la for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/la/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/la/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/la
+[Info  - 00:01:41] Indexing adminlte/id for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/id/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/id/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/id for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/id/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/id/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/id
+[Info  - 00:01:41] Indexing adminlte/sr for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/sr/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/sr/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/sr for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/sr/menu.php
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/sr/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/sr
+[Info  - 00:01:41] Indexing adminlte/ar for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ar/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/ar for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/ar/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/ar
+[Info  - 00:01:41] Indexing adminlte/nl for definitions and static references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/nl/adminlte.php
+[Info  - 00:01:41] Indexing adminlte/nl for dynamic references
+Parsing file:///opt/lampp/htdocs/TEST-LV-SEBASTIAN/resources/lang/vendor/adminlte/nl/adminlte.php
+[Warn  - 00:01:41] Could not compute cache key for adminlte/nl
+[Info  - 00:01:41] All 182 PHP files parsed in 0 seconds. 164 MiB allocated.

@@ -1,0 +1,24 @@
+2021/03/27-05:22:32.919 2352 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-05:22:32.919 2352 Recovering log #104
+2021/03/27-05:22:32.919 2352 Reusing old log /home/seba/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000104.log 
+2021/03/27-06:01:04.570 2352 Level-0 table #109: started
+2021/03/27-06:01:04.753 2352 Level-0 table #109: 2369199 bytes OK
+2021/03/27-06:01:04.755 2352 Delete type=0 #104
+2021/03/27-06:05:30.193 235c Compacting 1@1 + 1@2 files
+2021/03/27-06:05:30.199 235c Generated table #110@1: 67 keys, 32090 bytes
+2021/03/27-06:05:30.199 235c Compacted 1@1 + 1@2 files => 32090 bytes
+2021/03/27-06:05:30.200 235c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-06:05:30.201 235c Delete type=2 #109
+2021/03/27-06:05:30.201 235c Delete type=2 #106
+2021/03/27-06:47:32.997 2caa Level-0 table #112: started
+2021/03/27-06:47:33.013 2caa Level-0 table #112: 2300894 bytes OK
+2021/03/27-06:47:33.015 2caa Delete type=0 #108
+2021/03/27-06:52:34.091 2d7d Compacting 1@1 + 1@2 files
+2021/03/27-06:52:34.098 2d7d Generated table #113@1: 67 keys, 46624 bytes
+2021/03/27-06:52:34.098 2d7d Compacted 1@1 + 1@2 files => 46624 bytes
+2021/03/27-06:52:34.099 2d7d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-06:52:34.099 2d7d Delete type=2 #110
+2021/03/27-06:52:34.099 2d7d Delete type=2 #112
+2021/03/27-10:22:32.996 39f3 Level-0 table #115: started
+2021/03/27-10:22:33.013 39f3 Level-0 table #115: 2261054 bytes OK
+2021/03/27-10:22:33.016 39f3 Delete type=0 #111

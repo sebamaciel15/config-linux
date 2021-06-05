@@ -1,0 +1,12 @@
+[2021-06-04 22:47:22.996] [renderer1] [error] Kite process could not be found in the processes list: Error: Kite process could not be found in the processes list
+    at /home/seba/.vscode/extensions/kiteco.kite-0.147.0/node_modules/kite-connector/lib/support/linux.js:246:17
+[2021-06-05 00:02:49.941] [renderer1] [error] Cannot read property 'contents' of undefined: TypeError: Cannot read property 'contents' of undefined
+    at Object.<anonymous> (/home/seba/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.7/dist/extension/index.js:1:285810)
+    at Generator.next (<anonymous>)
+    at s (/home/seba/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.7/dist/extension/index.js:1:283355)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:434:9)
+[2021-06-05 00:07:09.167] [renderer1] [error] Cannot read property 'contents' of undefined: TypeError: Cannot read property 'contents' of undefined
+    at Object.<anonymous> (/home/seba/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.7/dist/extension/index.js:1:285810)
+    at Generator.next (<anonymous>)
+    at s (/home/seba/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.7/dist/extension/index.js:1:283355)

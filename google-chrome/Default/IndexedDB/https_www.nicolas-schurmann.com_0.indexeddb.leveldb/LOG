@@ -1,0 +1,5 @@
+2021/02/20-02:00:03.577 1475 Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_www.nicolas-schurmann.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/20-02:00:35.869 121d Level-0 table #5: started
+2021/02/20-02:00:35.870 121d Level-0 table #5: 4353 bytes OK
+2021/02/20-02:00:35.872 121d Delete type=0 #3
+2021/02/20-02:00:35.872 121d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

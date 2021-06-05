@@ -1,0 +1,15 @@
+2021/03/27-12:45:09.650 486b Reusing MANIFEST /home/seba/.config/google-chrome/Default/IndexedDB/https_bttsqjy6dnv05acplp5vy0mflgrh3z.ext-twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-12:45:09.650 486b Recovering log #7
+2021/03/27-12:45:09.650 486b Reusing old log /home/seba/.config/google-chrome/Default/IndexedDB/https_bttsqjy6dnv05acplp5vy0mflgrh3z.ext-twitch.tv_0.indexeddb.leveldb/000007.log 
+2021/03/27-12:45:48.662 4843 Level-0 table #12: started
+2021/03/27-12:45:48.663 4843 Level-0 table #12: 495 bytes OK
+2021/03/27-12:45:48.665 4843 Delete type=0 #7
+2021/03/27-12:45:48.665 4843 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-12:45:48.665 4843 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x005\x002\x004\x001\x001\x009\x006\x004\x004' @ 77 : 1
+2021/03/27-12:45:48.665 4843 Compacting 1@1 + 1@2 files
+2021/03/27-12:45:48.667 4843 Generated table #13@1: 17 keys, 611 bytes
+2021/03/27-12:45:48.667 4843 Compacted 1@1 + 1@2 files => 611 bytes
+2021/03/27-12:45:48.669 4843 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-12:45:48.669 4843 Delete type=2 #9
+2021/03/27-12:45:48.669 4843 Delete type=2 #12
+2021/03/27-12:45:48.669 4843 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x005\x002\x004\x001\x001\x009\x006\x004\x004' @ 77 : 1 .. (end); will stop at (end)
